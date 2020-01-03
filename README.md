@@ -1,3 +1,6 @@
+Updated: Rewrote the original .asp (Classic ASP, vbscript) to .aspx (ASP.NET using C#). I rewrote it because Classic ASP is incompatible with mono-project for running on Linux/FreeBSD. Everything should work the same way, just new Default.aspx, webfeed.aspx, and Web.config
+--surfchris
+
 # RAWeb
 
 A simple web interface for your RemoteApps hosted on Win 7, 8, 10 and Server.
