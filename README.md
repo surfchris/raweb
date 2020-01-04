@@ -1,4 +1,4 @@
-*Modification*: Rewrote the original .asp (Classic ASP, vbscript) to .aspx (ASP.NET using C#). Reason: Because Classic ASP is incompatible with mono-project for running on Linux/FreeBSD. Everything should work the same way, just new Default.aspx, webfeed.aspx, and Web.config
+*Modification*: Rewrote the original .asp (Classic ASP, vbscript) to .aspx (ASP.NET using C#). Reason: Because Classic ASP is incompatible with Mono running on Linux/FreeBSD. Everything should work the same way, just new Default.aspx, webfeed.aspx, and Web.config
 --*surfchris*
 
 # RAWeb
@@ -20,7 +20,7 @@ To setup RemoteApps, try [RemoteApp Tool](https://github.com/kimmknight/remoteap
 
 ## Installation
 
-1. Install IIS and ASP features
+1. Install IIS and ASP features.
 2. Copy the contents of the "wwwroot" folder to your inetpub\wwwroot folder.
 
 ## Guides
