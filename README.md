@@ -20,7 +20,7 @@ To setup RemoteApps, try [RemoteApp Tool](https://github.com/kimmknight/remoteap
 
 ## Installation
 
-1. Install IIS and ASP features.
+1. Install IIS and ~~ASP features~~ ASP.NET 4.6 features.
 2. Copy the contents of the "wwwroot" folder to your inetpub\wwwroot folder.
 
 ## Guides
