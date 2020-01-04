@@ -16,7 +16,6 @@
                 string filelineleft = fileline.Substring(0, valuenamelen);
                 if ((filelineleft.ToLower() == valuename))
                 {
-                    int vaku = fileline.Length;
                     theName = fileline.Substring(valuenamelen, fileline.Length - valuenamelen);
                 }
             }
